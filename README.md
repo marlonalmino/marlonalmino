@@ -3,7 +3,7 @@
 - 🔭 Estou buscando uma oportunidade na área de desenvolvimento
 - 🧐 Gosto de aprender coisas novas constantemente
 - 💻 Cursando Sistemas de Informação
-- 📚 Estudando Python
+- 📚 Estudando Full Stack JS
 - 🎧 Adoro música
 - 🎮 Gamer
 
